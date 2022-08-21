@@ -1,0 +1,28 @@
+{
+    "name": "Sacrificed Primate #5",
+    "symbol": "CSK",
+    "description": "Eight sacrifice by UwDegens",
+    "seller_fee_basis_points": 1000,
+    "image": "https://raw.githubusercontent.com/UnderSand/Yang-Primate/main/UPDATEYANG.png",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Sacrificed",
+            "value": "Eight Sacrifice"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/UnderSand/Yang-Primate/main/UPDATEYANG.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "49B58UCHRco3UdHoboCNd3GjACB52iAbRg945GriZvnH",
+                "share": 100
+            }
+        ]
+    }
+}
