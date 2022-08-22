@@ -1,14 +1,14 @@
 {
     "name": "Sacrificed Primate #5",
     "symbol": "CSK",
-    "description": "Eight sacrifice by UwDegens",
+    "description": "Eighth sacrifice by UwDegens",
     "seller_fee_basis_points": 1000,
     "image": "https://raw.githubusercontent.com/UnderSand/primate5/main/primate5.png",
     "external_url": "",
     "attributes": [
         {
             "trait_type": "Sacrificed",
-            "value": "Eight Sacrifice"
+            "value": "Eighth Sacrifice"
         }
     ],
     "properties": {
